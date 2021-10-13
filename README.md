@@ -14,8 +14,8 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Ma
 
 * **- Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.
 * **- Preparação e Limpeza dos dados:** Sabemos que nem todos os dados coletados serão úteis, então é nessa etapa que precisaremos limpá-los. Este processo é onde removemos os registros que são nulos, registros duplicados e erros básicos. A limpeza dos dados é obrigatória antes de enviar as informações para análise.
-* **- Análise Exploratória:** Essa é uma das etapas mais importantes, pois é onde vamos analisar cada característica da base de dados e de cada variável.
-* **- Forecasting dos dados** É onde aplica-se técnicas para encontrar padrões e tendências para tentar prever eventos futuros, com base no histórico de dados no tempo. 
+* **- Análise Exploratória/Série Temporal:** Essa é uma das etapas mais importantes, pois é onde vamos analisar cada característica da base de dados e de cada variável.
+* **- Forecasting dos dados:** É onde aplica-se técnicas para encontrar padrões e tendências para tentar prever eventos futuros, com base no histórico de dados no tempo. 
 
 ## Exemplos de Visualização dos Dados
 
