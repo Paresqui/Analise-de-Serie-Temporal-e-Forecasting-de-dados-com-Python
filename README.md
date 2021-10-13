@@ -8,7 +8,7 @@ Este projeto explora os dados relacionados à produção de Cerveja na Austráli
 
 ## Bibliotecas utilizadas
 
-Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Pandas Profiling, Numpy, Seaborn, Pmdarima e Statsmodels.
+Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Pandas Profiling, Numpy, Seaborn, Sklearn, Math, Pmdarima e Statsmodels.
 
 ## Etapas Realizadas:
 
