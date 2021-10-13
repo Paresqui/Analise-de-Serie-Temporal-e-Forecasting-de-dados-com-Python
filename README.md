@@ -21,4 +21,4 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Ma
 
 <p align="left"><img src="./img.PNG" ></p>
 
-<p align="left"><img src="./image_05.PNG"  width="789">></p>
+<p align="left"><img src="./img2.PNG" >></p>
