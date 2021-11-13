@@ -4,7 +4,9 @@
 
 ## Contexto
 
-Este projeto explora os dados relacionados à produção de Cerveja na Austrália e fornece previsões baseadas em alguns modelos utilizados para a realização do Casting nos dados, como ARIMA e LSTM. Possui dados de uma única série temporal com frequência mensal, representando a produção total de cerveja australiana em megalitros durante o período de janeiro de 1956 a agosto de 1995. Nas primeiras etapas, realizo a leitura e a preparação dos dados, em seguida uma breve Análise dos Dados (EDA). O primeiro passo é traçar a série temporal e observar quaisquer características típicas, portanto, uma maneira de representar uma série temporal é assumir que o processo estocástico pode ser representado como uma combinação de componentes de tendência, sazonalidade e componentes cíclicos. Dessa forma, tentamos quebrar a série nesses componentes, a fim de escolher qual modelo teria melhor desempenho em termos de previsão.
+Este projeto explora os dados relacionados à produção de Cerveja na Austrália e fornece previsões baseadas em alguns modelos utilizados para a realização do Casting nos dados, como ARIMA e LSTM. Possui dados de uma única série temporal com frequência mensal, representando a produção total de cerveja australiana em megalitros durante o período de janeiro de 1956 a agosto de 1995. Nas primeiras etapas, realizo a leitura e a preparação dos dados, em seguida uma breve Análise dos Dados (EDA). O primeiro passo é traçar a série temporal e observar quaisquer características típicas, portanto, uma maneira de representar uma série temporal é assumir que o processo estocástico pode ser representado como uma combinação de componentes de tendência, sazonalidade e componentes cíclicos. Dessa forma, tentamos quebrar a série nesses componentes, a fim de escolher qual modelo teria melhor desempenho em termos de previsão. 
+
+**OBS:** Recomendo abrir o arquivo .ipynb no Jupyter Notebook ou no Google Colab para uma melhor visualização do projeto.
 
 ## Bibliotecas utilizadas
 
